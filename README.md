@@ -327,7 +327,6 @@ Open the notebook and execute all cells to train the model.
 ## ⭐ Thank you for visiting this repository!
 
 **Learn • Process • Predict • Deploy • Repeat 🚀**
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
